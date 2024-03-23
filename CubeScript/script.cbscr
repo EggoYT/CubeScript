@@ -1,0 +1,7 @@
+var a = 10.0;
+var b = 2.0;
+
+do {
+	a = a - 1.0;
+	print(a);
+} while(b > a);
